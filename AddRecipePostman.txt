@@ -1,0 +1,5 @@
+{
+    "recipeName": "Puchero",
+    "recipeTime": "50m",
+    "recipePreparation": "Comprala"
+}

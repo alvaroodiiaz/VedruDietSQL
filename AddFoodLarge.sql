@@ -1,0 +1,2 @@
+insert into food (nombre, calorias, lipidos, hidratos, proteinas, fibra, sodio, agps, ags, ams, calcio, fosforo, potasio, hierro, fenilalanina, tirosina, fructosa)
+values('Manzana', '150', '100','100','100','100','100','100','100','100','100','100','100','100','100','100','100')

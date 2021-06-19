@@ -1,0 +1,20 @@
+{
+    "foodName": "Melocoton",
+    "calorias": "150",
+    "lipidos": "100",
+    "hidratos": "100",
+    "proteinas": "150",
+    "fibra": "100",
+    "sodio": "200",
+    "agps": "100",
+    "ags": "100",
+    "ams": "100",
+    "calcio": "100",
+    "fosforo": "300",
+    "potasio": "100",
+    "hierro": "100",
+    "fenilalanina": "100",
+    "tirosina": "100",
+    "fructosa": "600",
+    "favorite":true
+}
